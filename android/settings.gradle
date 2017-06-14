@@ -1,0 +1,3 @@
+rootProject.name = 'app_code_generator'
+
+include ':app'
